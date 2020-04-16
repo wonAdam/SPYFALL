@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ec028f97137ee42982fcb5fd64e42c, type: 3}
+  m_Name: Card9
+  m_EditorClassIdentifier: 
+  place: "\uC9C0\uD558\uCCA0"
+  player1: "\uCCA0\uB3C4 \uAE30\uAD00\uC0AC"
+  player2: "\uCD9C\uADFC\uD558\uB294 \uC9C1\uC7A5\uC778"
+  player3: "\uB4F1\uAD50\uD558\uB294 \uB300\uD559\uC0DD"
+  player4: "\uD604\uC7A5\uCCB4\uD5D8\uB098\uC628 \uC911\uD559\uC0DD"
+  player5: "\uC549\uC544\uC11C \uCC45 \uC77D\uB294 \uC0AC\uB78C"
+  player6: "\uD64D\uB300\uB85C \uB180\uB7EC\uAC00\uB294 \uC0AC\uB78C"
+  player7: "\uD3EC\uAD50\uD65C\uB3D9\uD558\uB294 \uD560\uC544\uBC84\uC9C0"
+  player8: "\uC7A1\uC0C1\uC778"
+  player9: "\uCDE8\uAC1D"

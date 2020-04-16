@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ec028f97137ee42982fcb5fd64e42c, type: 3}
+  m_Name: Card8
+  m_EditorClassIdentifier: 
+  place: "\uBBFC\uC18D\uCD0C"
+  player1: "\uC655"
+  player2: "\uAC04\uC2E0"
+  player3: "\uB3C4\uAE68\uBE44"
+  player4: "\uD3EC\uC878"
+  player5: "\uD3EC\uB3C4\uB300\uC7A5(\uACBD\uCC30\uCCAD\uC7A5)"
+  player6: "\uC190\uB2D8"
+  player7: "\uD654\uACF5"
+  player8: "\uAC70\uC9C0"
+  player9: "\uBC31\uC815"

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ec028f97137ee42982fcb5fd64e42c, type: 3}
+  m_Name: Card15
+  m_EditorClassIdentifier: 
+  place: "\uD68C\uC0AC"
+  player1: CEO
+  player2: "\uBE44\uC11C\uC2E4\uC7A5"
+  player3: "\uBD80\uC7A5"
+  player4: "\uCC28\uC7A5"
+  player5: "\uB300\uB9AC"
+  player6: "\uC0AC\uC6D0"
+  player7: "\uC778\uD134"
+  player8: "\uACBD\uBE44\uC6D0"
+  player9: "\uD658\uACBD\uBBF8\uD68C\uC6D0"
