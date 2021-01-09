@@ -11,6 +11,12 @@ I have worked on this project in 2020 Febuary.
 It's based on 2D platform and Photon-based Network, Card, Board, Origin : Spyfall(board game) / Android game. 
 
 
+> Download Link
+
+Android: https://drive.google.com/file/d/15XzsKSaVJ0Tx_FoKt43lJhT5Rh0VGYpm/view?usp=sharing
+
+PC: https://drive.google.com/file/d/1QDhXpDE72w91ZENdPKXlNDmniANw_sC_/view?usp=sharing
+
 
 
 > 개발기간 : 2020.01.27 ~ 2020.02.08 
